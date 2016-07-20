@@ -12,7 +12,7 @@
 ### _Getting and Cleaning Data_
 #### &nbsp;&nbsp;&nbsp;&nbsp;  This course will cover the basic ways that data can be obtained. The course will cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It will also cover the basics of data cleaning and how to make data “tidy”. Tidy data dramatically speed downstream data analysis tasks. The course will cover the basics needed for collecting, cleaning, and sharing data.In the project assignment, Testing data Sumsung phone using for 30 pepole in five activities(Sitting,Walking,Laying,Walking Up and Walking down). The Raw data to tidy data several processes is included they are raw data, processing instructions, codebooks, and processed data 
 ### _Exploratory Data Analysis_
-#### &nbsp;&nbsp;&nbsp;&nbsp; This course covers the essential exploratory techniques for summarizing data. Exploratory techniques are important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data. It covers the plotting systems in R as well as some of the basic principles of constructing data graphics. In the project assignment Emission value for four years in the U.S data.
+#### &nbsp;&nbsp;&nbsp;&nbsp; This course covers the essential exploratory techniques for summarizing data. Exploratory techniques are important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data. It covers the plotting systems in R as well as some of the basic principles of constructing data graphics. In the project assignment Emission value for four years in the U.S data are given.
 ####Plotting are made for the following  
 ####* Yearly total emission in the U.S
 ####* Yearly total emission in the Baltimore city
